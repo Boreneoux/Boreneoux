@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Ichlasul Fikri
 
-A Software Engineering Student who loves to create and share projects about web! I've enjoyed JavaScript and make it the main language in creating a project.
+A Software Engineering Student who loves to create and share projects about web or mobile! I've enjoyed JavaScript and make it the main language in creating a project.
 
 I'm currently active student in Esa Unggul University majoring Informatics Engineering, Anyway! you can call me Ichlas.
 
 - 🔭 I’m currently Studying <a href="https://www.esaunggul.ac.id/">@Esa Unggul University</a> Majoring Informatics Engineering
-- 🌱 I’m currently taking MSIB Program Bangkit 2023 Mobile Development Path!
+- 🌱 I’m a graduate from Bangkit 2023 Batch 1 Mobile Development Path!
 - 📫 How to reach me: ichlasul.ap@gmail.com or <a href="https://www.linkedin.com/in/ichlasulfikri/">LinkedIn</a>
 - ⚡ Fun fact: I was a <a href="https://www.youtube.com/channel/UCol-nYLcvK4KayX5ku6Ruqw">Minecraft Youtuber</a> (lol) 
 
