@@ -5,7 +5,7 @@ A Software Engineering Student who loves to create and share projects about web 
 I'm currently active student in Esa Unggul University majoring Informatics Engineering, Anyway! you can call me Ichlas.
 
 - 🔭 I’m currently Studying <a href="https://www.esaunggul.ac.id/">@Esa Unggul University</a> Majoring Informatics Engineering
-- I'm interning as a Front End Engineer at <a href="https://vidio.com">Vidio.com</a>
+- 📺 I'm interning as a Front End Engineer at <a href="https://vidio.com">Vidio.com</a>
 - 🌱 I’m a graduate from Bangkit 2023 Batch 1 Mobile Development Path!
 - 📫 How to reach me: ichlasul.ap@gmail.com or <a href="https://www.linkedin.com/in/ichlasulfikri/">LinkedIn</a>
 - ⚡ Fun fact: I was a <a href="https://www.youtube.com/channel/UCol-nYLcvK4KayX5ku6Ruqw">Minecraft Youtuber</a> (lol) 
